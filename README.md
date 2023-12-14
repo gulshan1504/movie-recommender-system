@@ -12,7 +12,9 @@ Deployment:
 The recommender system is deployed as a live website using Flask and hosted on [chosen hosting platform]. Users can access movie recommendations in real-time by entering their favorite movies through the web interface.
 
 Technologies Used:
-
 Python
 Jupyter Notebook
 Streamlit
+
+DataSet download link:
+https://drive.google.com/drive/folders/1DWGgsWXTMDnaHXLh3OAGm6YiZx3i5jKJ?usp=sharing
