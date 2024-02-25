@@ -9,7 +9,7 @@ Data preprocessing and model training in Jupyter Notebook.
 Streamlit web application for user interaction.
 Allows users to input a movie and receive personalized recommendations.
 Deployment:
-The recommender system is deployed as a live website using Flask and hosted on [chosen hosting platform]. Users can access movie recommendations in real-time by entering their favorite movies through the web interface.
+The recommender system is deployed as a live website using Flask and hosted on . Users can access movie recommendations in real-time by entering their favorite movies through the web interface.
 
 Technologies Used:
 Python
